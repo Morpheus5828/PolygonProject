@@ -1,5 +1,3 @@
-package com.exostp3;
-
 public class CartesianPoint {
     private final double x;
     private final double y;
